@@ -1,6 +1,8 @@
 import React from "react";
 import axios from "axios";
 import MovieCard from "./MovieCard";
+
+// starting project
 export default class Movie extends React.Component {
   constructor(props) {
     super(props);
